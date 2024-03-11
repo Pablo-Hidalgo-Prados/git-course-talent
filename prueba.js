@@ -1,7 +1,7 @@
 function Prueba() {
     return (
         <div>
-            <h1>Prueba</h1>
+            <h2>Prueba</h2>
         </div>
     );
 }
